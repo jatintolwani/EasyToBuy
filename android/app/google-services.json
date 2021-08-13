@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29595315511",
+    "project_id": "easytobuy-b2dea",
+    "storage_bucket": "easytobuy-b2dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29595315511:android:6dbcd8e58fe8700de47eb2",
+        "android_client_info": {
+          "package_name": "com.easytobuy.easytobuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29595315511-0n18v9fmo5efdkcpded83gpmkka1qqc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqlsY26U6ZgSbt2dkhXLN28JV45voD7mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29595315511-0n18v9fmo5efdkcpded83gpmkka1qqc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
